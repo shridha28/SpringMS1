@@ -22,5 +22,7 @@ public class Movie {
 		this.movieName = movieName;
 	}
 	
+	public Movie() {}
+	
 
 }

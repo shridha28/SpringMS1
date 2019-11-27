@@ -4,6 +4,10 @@ public class Movie {
 	
 	private String movideId;
 	private String movieName;
+	
+	Movie(){}
+	
+	
 	public String getMovideId() {
 		return movideId;
 	}
